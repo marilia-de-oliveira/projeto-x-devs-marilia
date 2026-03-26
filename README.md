@@ -37,3 +37,11 @@ Uso de addEventListener para eventos
 Controle de fluxo com condições
 Organização de código front-end
 Separação de responsabilidades (HTML, CSS e JS)
+
+## 🔧 Como Executar
+1. Clone o repositório:
+git clone https://github.com/marilia-de-oliveira/projeto-x-devs-marilia.git
+2. Acesse a pasta do projeto
+3. Abra o arquivo index.html no navegador
+
+#Ou acesse o projeto
