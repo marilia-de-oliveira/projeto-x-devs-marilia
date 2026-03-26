@@ -1,4 +1,4 @@
-# Projeto Interativo com HTML, CSS e JavaScript - x-devs-marilia (Dev em Dobro)
+# Projeto Interativo com HTML, CSS e JavaScript - x-devs-marilia (Aula Dev em Dobro)
 
 Este projeto foi desenvolvido com foco em prática de desenvolvimento front-end, aplicando conceitos fundamentais de HTML, CSS e JavaScript para criar uma interface interativa baseada em navegação por cartões.
 
